@@ -1,4 +1,5 @@
-#Made by Andrei
+#Feito por Andrei Ramos Lopes
+#Github: https://github.com/Andreirl032/random-bible-verse-app
 import PySimpleGUI as sg
 import xml.etree.ElementTree as ET
 from random import randrange
